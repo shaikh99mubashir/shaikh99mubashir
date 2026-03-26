@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Shaikh Mubashir</h1>
+<h3 align="center">🚀 Full Stack Developer | Automation Engineer | SaaS Builder</h3>
+
+---
+
+## 🧑‍💻 About Me:
+- 💻 Passionate **Full Stack Developer** with experience in building scalable web & mobile applications  
+- 🚀 Skilled in **React, Next.js, Flutter, Node.js, PHP, and TypeScript**  
+- ☁️ Hands-on experience with **AWS, Firebase, Google Cloud & Cloudflare**  
+- 🧪 Strong grip on **Automation Testing** using Playwright, Cypress, Selenium & Jest  
+- 📊 Focused on **performance optimization, clean architecture & scalable systems**  
+- 🎯 Currently building **SaaS products & real-world solutions**  
+- 🤝 Open for **freelance, startup & collaboration opportunities**  
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikh99mubashir@gmail.com) 
