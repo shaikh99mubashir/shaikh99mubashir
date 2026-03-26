@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Mubashir</h1>
-<h3 align="center">🚀 Full Stack Developer | Automation Engineer | SaaS Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | SaaS Builder</h3>
 
 ---
 
